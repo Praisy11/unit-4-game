@@ -1,0 +1,47 @@
+body {
+  
+    background-image: url("assets/images/background.jpg"); 
+	 
+	padding: 65px;
+	
+
+}
+
+.jumbotron {
+    background-color: #6391c5;
+}
+
+h1 {
+	
+	font-size: 18; 
+	font-family: Georgia; 
+	
+	}
+
+h2 {
+	font-size: 16;
+	font-family: Georgia; 
+
+}
+
+p {
+	font-size: 14;
+	font-family: Georgia;
+	
+}
+
+#crystal1,#crystal2,#crystal3,#crystal4 {
+    
+  border:6px solid black;
+ }
+ 
+footer {
+	background:#6391c5;
+	text-align:center; 
+	font-size: 10;
+	padding :20px;
+}
+
+
+
+  
